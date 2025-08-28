@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @coderhtmlcssjspython
 - 👀 I’m interested in code
-- 🌱 I’m currently learning html and css
+- I have learned html and css
+- 🌱 I’m currently learning java script 
 - 📫 You can reach me at diegocoronela3@gmail.com
